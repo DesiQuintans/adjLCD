@@ -7,7 +7,8 @@
 This is a collection of Tool Paks for [MinUI](https://github.com/shauninman/MinUI) (20240128b-0 and later). It adds these tools for controlling the LCD screen of a Miyoo Mini/Mini Plus:
 
 - **AdjLCD - Dimmest** sets the LCD to the lowest luma possible.
-- **AdjLCD - Night Filter (Lv 1-5)** replicates the 5-level Blue Light Filter that [XK9274](https://github.com/XK9274) implemented in OnionOS v4.3 (with gracious permission!). 
+- **AdjLCD - Night Filter (Lv 1-5)** replicates the 5-level Blue Light Filter that [XK9274](https://github.com/XK9274) implemented in OnionOS v4.3 (with gracious permission!).
+- **Dimmest** and **Night Filter** can both be applied at the same time.
 - **AdjLCD - Reset Screen** resets the screen to MinUI's defaults.
 
 Changes to your screen settings persist across reboots thanks to an `auto.sh` boot-up script. 
