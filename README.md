@@ -21,7 +21,7 @@ Since the Miyoo doesn't have a real-time clock chip and MinUI doesn't have Wifi 
 1. You should have [MinUI](https://github.com/shauninman/MinUI) 20240128b-0 or later installed on your SD card.
 2. Download [the latest release of AdjLCD](https://github.com/DesiQuintans/adjlcd/releases/latest).
 3. Unzip it to the root folder of your Miyoo's SD card. 
-	- It should place the AdjLCD pak folders into your `Tools/miyoomini/` directory, e.g. `Tools/miyoomini/AdjLCD - Dimmest.pak/`. 
+	- It should place the AdjLCD pak folders into your `Tools/miyoomini/` directory, e.g. `Tools/miyoomini/Adjust Screen/Dimmest.pak/`. 
 	- It should also create `.userdata/miyoomini/auto.sh`, which allows your screen settings to persist across reboots.
 4. Feel free to delete unwanted .paks.
 5. Find and use these tools in your *Tools* directory from the main menu, under the 'Adjust Screen' category.
