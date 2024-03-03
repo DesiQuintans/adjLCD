@@ -50,3 +50,18 @@ If you do not see the *Tools* menu then you may be in Simple Mode; delete the fi
 ## License
 
 This is released into the public domain under the Unlicense.
+
+
+
+## Changelog
+
+
+### v1.0.1 (2024-03-04)
+
+- Add a 100 ms wait to the colortemp call in auto.sh.
+
+
+
+### v1.0.0 (2024-03-03)
+
+- Initial release.
